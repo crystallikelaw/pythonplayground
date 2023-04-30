@@ -1,0 +1,559 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ab",
+				"abundant_sequence\tfunction"
+			],
+			[
+				"van",
+				"vaneck_seq\tfunction"
+			],
+			[
+				"add",
+				"add_dig\tfunction"
+			],
+			[
+				"prime",
+				"primetest\tfunction"
+			],
+			[
+				"vaneck",
+				"vaneck_term\tfunction"
+			],
+			[
+				"ret",
+				"ret_last_index\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Anaconda Python Builder",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"LuaLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git pull ",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git d",
+				"Git: Diff"
+			],
+			[
+				"git ",
+				"Git: Diff"
+			],
+			[
+				"theme color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"cache",
+				"LaTeXTools: Build cache of LaTeX packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"to",
+				"TodoReview: Open Files"
+			],
+			[
+				"git stu",
+				"Git: Status"
+			],
+			[
+				"git psuh",
+				"Git: Push"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"git config",
+				"Set Syntax: Git Config"
+			],
+			[
+				"toodo",
+				"TodoReview: Project Files"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"g",
+				"Git: Pull"
+			],
+			[
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"change",
+				"Git: Change Branch"
+			],
+			[
+				"sublimegi",
+				"SublimeGit: Documentation"
+			],
+			[
+				"github",
+				"Git: Push Current Branch"
+			],
+			[
+				"githu",
+				"Github: Repository"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 182.0,
+		"history":
+		[
+			"pip install --upgrade --user $(pip list --outdated --user --format=freeze | cut -d'=' -f1)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/crystallikelaw/working/pythonplayground",
+		"/C/Users/crystallikelaw/working/pythonplayground/CoreyTut"
+	],
+	"file_history":
+	[
+		"/C/Users/crystallikelaw/working/pythonplayground/rctstuff.py",
+		"/C/Users/crystallikelaw/working/pythonplayground/Prime_Check.py",
+		"/C/Users/crystallikelaw/working/pythonplayground/primes_avehi.py",
+		"/C/Users/crystallikelaw/working/pythonplayground/broyden.py",
+		"/C/Users/crystallikelaw/working/pythonplayground/sequences.py",
+		"/C/Users/crystallikelaw/working/pythonplayground/Lucas Lehmer Prime Generator.py",
+		"/C/Users/crystallikelaw/working/pythonplayground/newsphere.py",
+		"/C/Users/crystallikelaw/working/pythonplayground/pokemon.py",
+		"/C/Users/crystallikelaw/working/pythonplayground/fib.py",
+		"/C/Users/crystallikelaw/working/pythonplayground/cointoss.py",
+		"/C/Users/crystallikelaw/working/pythonplayground/add-digits.py",
+		"/D/Documents/Roleplaying/DnD 5e/Mine/Oakley/untitled.md",
+		"/C/Users/crystallikelaw/working/Projects/Kickstarter/webrobots/stats.py",
+		"/C/Users/crystallikelaw/working/pythonplayground/temp.py",
+		"/D/Documents/Documents/CV/Kapilan_Mahalingam.tex",
+		"/C/Users/crystallikelaw/working/pythonplayground/kevin_sheppard.py",
+		"/C/Users/crystallikelaw/working/pythonplayground/frog_avehi.py",
+		"/C/Users/crystallikelaw/working/pythonplayground/spheres_and_shit.py",
+		"/C/Users/crystallikelaw/working/Projects/Kickstarter/dailydata/data_process.py",
+		"/C/Users/crystallikelaw/working/Projects/Kickstarter/webrobots/data_cleaning.py",
+		"/C/Users/crystallikelaw/working/pythonplayground/rules.py",
+		"/C/Users/crystallikelaw/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/crystallikelaw/working/pythonplayground/frog.py",
+		"/C/Users/crystallikelaw/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/crystallikelaw/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/crystallikelaw/AppData/Local/Sublime Text 3/Cache/Sublimerge.vcs-cache",
+		"/C/Users/crystallikelaw/working/pythonplayground/broyden2.py",
+		"/C/Users/crystallikelaw/AppData/Roaming/Sublime Text 3/Packages/User/TodoReview.sublime-settings",
+		"/C/Users/crystallikelaw/AppData/Roaming/Sublime Text 3/Packages/TodoReview/TodoReview.sublime-settings",
+		"/C/Users/crystallikelaw/working/Projects/Kickstarter/draft/kapilan_draft.tex",
+		"/C/Users/crystallikelaw/.editorconfig",
+		"/C/Users/crystallikelaw/working/pythonplayground/Sieve of Eratosthenes.py",
+		"/C/Users/crystallikelaw/.gitignore_global",
+		"/C/Users/crystallikelaw/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Sublimerge 3.sublime-settings",
+		"/C/Users/crystallikelaw/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/C/Users/crystallikelaw/AppData/Roaming/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+		"/C/Users/crystallikelaw/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/Default.sublime-keymap",
+		"/D/Documents/python/frog.py",
+		"/D/Documents/python/sequences.py",
+		"/D/Documents/python/broyden.py",
+		"/C/Users/crystallikelaw/AppData/Local/Temp/Homework1_diary.txt",
+		"/D/Documents/Drive/Settings/Desktop/MusicBee3Settings.ini",
+		"/D/Documents/python/kevin_sheppard.py",
+		"/C/Users/crystallikelaw/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/crystallikelaw/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/D/Documents/python/kevin_sheppard",
+		"/D/Documents/temp.py",
+		"/D/Documents/sequences.py",
+		"/D/Software/picard.txt",
+		"/C/Users/crystallikelaw/AppData/Local/Temp/Rar$DIa4912.19726/readme.txt",
+		"/D/New folder/picard.txt",
+		"/D/Documents/Google Drive/Settings/Desktop/SublimeTexte/SublimeLinter.sublime-settings",
+		"/D/Documents/Google Drive/Settings/Desktop/SublimeTexte/bh_core.sublime-settings",
+		"/C/Users/crystallikelaw/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/D/Documents/Google Drive/Settings/Desktop/SublimeTexte/LaTeXTools.sublime-settings",
+		"/C/Users/crystallikelaw/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/crystallikelaw/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Documents/Google Drive/Settings/Desktop/SublimeTexte/Preferences.sublime-settings",
+		"/C/Users/crystallikelaw/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"means",
+			"print",
+			"_vaneck_mach",
+			"vaneck_se",
+			"vaneck_seq",
+			"_vaneck_mach",
+			"ready",
+			"prime",
+			"crap",
+			"currentnumberisthisokaysenpai",
+			"cur",
+			"prime_list",
+			"25",
+			"not_my_age",
+			"me",
+			"n",
+			"p",
+			"mean)\n    \n",
+			")\n    \n",
+			"\n    \n",
+			"    \n",
+			"avgs",
+			"end_pos",
+			"\t",
+			"count"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 88.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 246.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 150.0
+	},
+	"output.git-commit":
+	{
+		"height": 162.0
+	},
+	"output.git-init":
+	{
+		"height": 162.0
+	},
+	"output.git-pull":
+	{
+		"height": 692.0
+	},
+	"output.git-push":
+	{
+		"height": 255.0
+	},
+	"output.latextools":
+	{
+		"height": 216.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "python_excercises.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
